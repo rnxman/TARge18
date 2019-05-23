@@ -34,7 +34,7 @@ namespace Kangelased
 
         public override string ToString()
         {
-            return Nimi + "kaitseb" + Asukoht;
+            return Nimi + " kaitseb " + Asukoht;
         }
     }
 }
