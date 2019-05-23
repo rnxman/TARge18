@@ -1,0 +1,6 @@
+﻿Superman*/London
+Batman*/Tokyo
+Spiderman*/Los Angeles
+Hulk*/Pärnu
+Ironman*/Tallinn
+Thor*/Riia
